@@ -14,6 +14,8 @@ Repository containing academic practical lab assignments, algorithms, and implem
   - MetaMask Wallet Creation
 
 ### 2. DAA (Design and Analysis of Algorithms)
+- Theory & Revision:
+  - [`DAA_Fundamentals_and_Viva_Notes.md`](./DAA/DAA_Fundamentals_and_Viva_Notes.md) (Foundations, asymptotic analysis, greedy, dynamic programming, backtracking, branch & bound, master formulas, and viva Q&A)
 - Implemented in both **Java** and **Python**:
   - Fibonacci Numbers (Recursive and Non-Recursive / Dynamic Programming)
   - Fractional Knapsack (Greedy Approach)

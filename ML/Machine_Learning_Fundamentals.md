@@ -673,3 +673,4 @@ $$S = \frac{b - a}{\max(a, b)}$$
 | **$R^2$ Score** | $1 - \frac{\sum (y_i - \hat{y}_i)^2}{\sum (y_i - \bar{y})^2}$ |
 | **K-Means WCSS** | $\sum_{j=1}^{K} \sum_{x_i \in C_j} \|x_i - \mu_j\|^2$ |
 | **Silhouette Score** | $S = \frac{b - a}{\max(a, b)}$ |
+
