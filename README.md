@@ -5,6 +5,8 @@ Repository containing academic practical lab assignments, algorithms, and implem
 ## Overview
 
 ### 1. BCT (Blockchain Technology)
+- Theory & Revision:
+  - [`BCT_Fundamentals_and_Viva_Notes.md`](./BCT/BCT_Fundamentals_and_Viva_Notes.md) (Cryptography, consensus models, platform taxonomy, gas mechanics, Solidity smart contract development, and 40 viva Q&As)
 - Smart Contracts (Solidity):
   - `Ballot.sol`
   - `BankContract.sol`

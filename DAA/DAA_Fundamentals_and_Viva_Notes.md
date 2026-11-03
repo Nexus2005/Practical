@@ -523,3 +523,4 @@ $$|r_1 - r_2| = |c_1 - c_2|$$
 **Answer**:
 - **Las Vegas**: Always produces the exact correct result; execution time is a random variable (e.g., Randomized QuickSort).
 - **Monte Carlo**: Guarantees fixed deterministic execution time; output has a bounded probability of error (e.g., randomized primality testing).
+
