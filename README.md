@@ -23,6 +23,8 @@ Repository containing academic practical lab assignments, algorithms, and implem
   - QuickSort (Deterministic and Randomized Variants)
 
 ### 3. ML (Machine Learning)
+- Theory & Revision:
+  - [`Machine_Learning_Fundamentals.md`](./ML/Machine_Learning_Fundamentals.md) (Comprehensive notes, algorithms, preprocessing, evaluation formulas & viva preparation)
 - Jupyter Notebooks & Assignments:
   - Bank Customer Churn Neural Network Classifier
   - Binary Classification with KNN & SVM
