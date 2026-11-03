@@ -461,3 +461,4 @@ If an entity controls $>50\%$ of hashing power in PoW (or total stake in PoS), t
 
 #### Q20: What is the Application Binary Interface (ABI)?
 **Answer**: A standard JSON specification detailing a smart contract's functions, parameter types, and events, allowing external applications (DApps) to encode calls and decode responses.
+

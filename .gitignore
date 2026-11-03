@@ -14,9 +14,6 @@ venv/
 env/
 .env
 
-# Cloned / sub-repositories
-Sumit/
-
 # OS metadata
 Thumbs.db
 desktop.ini
